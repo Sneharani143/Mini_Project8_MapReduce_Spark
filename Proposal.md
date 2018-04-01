@@ -6,8 +6,6 @@
 
 2. I also want to derive the top features on car which is on high demand and sold more.
 
-3. I want to find those cars which provide the best performances.
-
 ### Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
 
 Our client is Ebay Kleinanzeigen. With difficult economic conditions, it is likely that sales of second-hand imported (reconditioned) cars and used cars will increase.It will be helpful for customers to get a correct pricing based on more features. They will get more knowledge about the new better pricing model.
